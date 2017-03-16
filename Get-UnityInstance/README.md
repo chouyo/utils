@@ -1,2 +1,2 @@
-#Unity实例检测工具
+# Unity实例检测工具
 做这个小工具的出发点，是因为JetBrains的Rider不能检测到Unity3D Standalone的实例，用Rider的时侯没办法调试，所以我自已用PowerShell写了一个小工具，用来检测所有本机可以用的实例。
